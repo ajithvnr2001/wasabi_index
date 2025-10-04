@@ -63,8 +63,8 @@ A lightweight, serverless web interface to browse, preview, and download files f
 
 | Variable Name | Value | Example |
 |---------------|-------|---------|
-| `WASABI_ACCESS_KEY_ID` | Your Wasabi Access Key ID | `AKIAIOSFODNN7EXAMPLE` |
-| `WASABI_SECRET_ACCESS_KEY` | Your Wasabi Secret Access Key | `wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY` |
+| `WASABI_ACCESS_KEY_ID` | Your Wasabi Access Key ID | `key` |
+| `WASABI_SECRET_ACCESS_KEY` | Your Wasabi Secret Access Key | `key` |
 | `WASABI_BUCKET_NAME` | Your bucket name | `my-storage-bucket` |
 | `WASABI_REGION` | Your bucket region | `us-east-1` |
 
